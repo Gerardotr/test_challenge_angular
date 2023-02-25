@@ -1,0 +1,164 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "first_name": "First Name 1",
+      "last_name": "Last Name 1",
+      "phone": "70217991",
+      "status": "active",
+      "email": "test1@yopmail.com"
+    },
+    {
+      "id": 2,
+      "first_name": "First Name 2",
+      "last_name": "Last Name 2",
+      "phone": "70217992",
+      "status": "inactive",
+      "email": "test2@yopmail.com"
+    },
+    {
+      "id": 3,
+      "first_name": "First Name 3",
+      "last_name": "Last Name 3",
+      "phone": "70217993",
+      "status": "pending",
+      "email": "test3@yopmail.com"
+    },
+    {
+      "id": 4,
+      "first_name": "First Name 4",
+      "last_name": "Last Name 4",
+      "phone": "70217994",
+      "status": "inactive",
+      "email": "test4@yopmail.com"
+    },
+    {
+      "id": 5,
+      "first_name": "First Name 5",
+      "last_name": "Last Name 5",
+      "phone": "70217995",
+      "status": "inactive",
+      "email": "test5@yopmail.com"
+    },
+    {
+      "id": 6,
+      "first_name": "First Name 6",
+      "last_name": "Last Name 6",
+      "phone": "70217996",
+      "status": "pending",
+      "email": "test6@yopmail.com"
+    },
+    {
+      "id": 7,
+      "first_name": "First Name 7",
+      "last_name": "Last Name 7",
+      "phone": "70217997",
+      "status": "inactive",
+      "email": "test7@yopmail.com"
+    },
+    {
+      "id": 8,
+      "first_name": "Juan Lopez",
+      "last_name": "Last Name 8",
+      "phone": "70217998",
+      "status": "active",
+      "email": "test8@yopmail.com"
+    },
+    {
+      "id": 9,
+      "first_name": "First Name 9",
+      "last_name": "Last Name 9",
+      "phone": "70217999",
+      "status": "inactive",
+      "email": "test9@yopmail.com"
+    },
+    {
+      "id": 10,
+      "first_name": "First Name 10",
+      "last_name": "Last Name 10",
+      "phone": "702179910",
+      "status": "inactive",
+      "email": "test10@yopmail.com"
+    },
+    {
+      "id": 11,
+      "first_name": "First Name 11",
+      "last_name": "Last Name 11",
+      "phone": "702179911",
+      "status": "inactive",
+      "email": "test11@yopmail.com"
+    },
+    {
+      "id": 12,
+      "first_name": "First Name 12",
+      "last_name": "Last Name 12",
+      "phone": "702179912",
+      "status": "inactive",
+      "email": "test12@yopmail.com"
+    },
+    {
+      "id": 13,
+      "first_name": "First Name 13",
+      "last_name": "Last Name 13",
+      "phone": "702179913",
+      "status": "inactive",
+      "email": "test13@yopmail.com"
+    },
+    {
+      "id": 14,
+      "first_name": "First Name 14",
+      "last_name": "Last Name 14",
+      "phone": "702179914",
+      "status": "inactive",
+      "email": "test14@yopmail.com"
+    },
+    {
+      "id": 15,
+      "first_name": "First Name 15",
+      "last_name": "Last Name 15",
+      "phone": "702179915",
+      "status": "inactive",
+      "email": "test15@yopmail.com"
+    },
+    {
+      "id": 16,
+      "first_name": "First Name 16",
+      "last_name": "Last Name 16",
+      "phone": "702179916",
+      "status": "inactive",
+      "email": "test16@yopmail.com"
+    },
+    {
+      "id": 17,
+      "first_name": "First Name 17",
+      "last_name": "Last Name 17",
+      "phone": "702179917",
+      "status": "inactive",
+      "email": "test17@yopmail.com"
+    },
+    {
+      "id": 18,
+      "first_name": "First Name 18",
+      "last_name": "Last Name 18",
+      "phone": "702179918",
+      "status": "inactive",
+      "email": "test18@yopmail.com"
+    },
+    {
+      "id": 19,
+      "first_name": "First Name 19",
+      "last_name": "Last Name 19",
+      "phone": "702179919",
+      "status": "inactive",
+      "email": "test19@yopmail.com"
+    },
+    {
+      "id": 20,
+      "first_name": "First Name 20",
+      "last_name": "Last Name 20",
+      "phone": "702179920",
+      "status": "inactive",
+      "email": "test20@yopmail.com"
+    }
+  ]
+}
