@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Install despencies
 
-Run `npm install`
+Run `npm install or npm i --legacy-peer-deps`
 
 
 ## Development server
